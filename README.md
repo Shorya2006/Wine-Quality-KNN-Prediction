@@ -22,6 +22,6 @@ While the group shared the same dataset, my specific focus was optimizing a dist
 4. Ensure the `winequality-red.csv` dataset is in the same directory before running the cells.
 
 ## 📊 Key Results
-* **Optimal K-Value:** [Insert your best K value here, e.g., 21]
-* **Model Accuracy:** [Insert your final accuracy % here]
+* **Optimal K-Value:** 29
+* **Model Accuracy:** 90.94%
 * *Please see the final cell of the notebook for the full Confusion Matrix and Classification Report.*
